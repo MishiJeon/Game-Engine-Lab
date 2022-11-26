@@ -1,4 +1,4 @@
-# GED_Base
+# Game Engine Lab
 
 ## Game Controls
 WASD to move<br />
